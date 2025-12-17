@@ -64,16 +64,15 @@ header ul {
     display: flex;
 }
 
-header a:not(.logo__wrapper) {
+header a {
     padding: 10px;
     margin: 0 25px;
     line-height: 1.3;
     transition: border 0.1s linear;
-    border-bottom: 2px solid transparent;
 }
 
 header a:hover {
-    border-color: #FFF;
+    color: #FFF;
 }
 
 .header-navigation--mobile {
