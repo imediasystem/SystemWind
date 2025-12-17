@@ -83,6 +83,7 @@
 .btn--white:hover {
     background-color: var(--primary-color);
     color: #FFF;
+    border: 2px solid #FFF;
 }
 
 .image-left {
