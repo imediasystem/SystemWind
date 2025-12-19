@@ -284,6 +284,10 @@ footer .flex {
         font-size: 16px;
     }
 
+    header .logo {
+        width: 50%;
+    }
+
     .header-navigation, header .btn {
         display: none;
     }
@@ -354,6 +358,10 @@ footer .flex {
         width: 70%;
     }
 
+    .clients .card {
+        border-radius: 0px 20px 20px 20px;
+    }
+
     .about,
     .join,
     .offer {
@@ -365,10 +373,23 @@ footer .flex {
         margin: 0 0 30px;
     }
 
-    .about img, 
+    .about img {
+        justify-self: center;
+        width: 80%;
+        border-radius: 20px 0 20px 20px;
+    }
+
     .offer img {
         justify-self: center;
-        width: 75%;
+        width: 80%;
+    }
+
+    .offer .image-right {
+        border-radius: 20px 0 20px 20px;
+    }
+
+    .offer .image-left {
+        border-radius: 0 20px 20px 20px;
     }
 
     .join a {
