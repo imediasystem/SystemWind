@@ -1,4 +1,5 @@
 /* GENERAL SITE STYLES */
+
 @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&display=swap');
 
 :root {
@@ -44,6 +45,7 @@ img {
 }
 
 /* HEADER */
+
 header {
     background-image: linear-gradient(to right, #E6ECF9, #99A2B6);
     margin: 20px 20px 0;
@@ -75,9 +77,14 @@ header a:hover {
     color: #FFF;
 }
 
+.header-navigation li a {
+    font-weight: 700;
+}
+
 .header-navigation--mobile {
     display: none;
 }
+
 
 /* MENU MOBILE */
 
@@ -115,7 +122,12 @@ input[type="checkbox"]:checked~label~.navigation-mobile-content {
     padding: 10px 0;
 }
 
+.navigation-mobile-content li a {
+    font-weight: 700;
+}
+
 /* SHOWCASE */
+
 .showcase {
     background-image: linear-gradient(to right, #E6ECF9, #99A2B6);
     margin: 0 20px;
@@ -171,6 +183,7 @@ input[type="checkbox"]:checked~label~.navigation-mobile-content {
 }
 
 /* OFFER */
+
 .offer {
     background-color: var(--light-color);
     padding: 100px 0;
@@ -184,17 +197,18 @@ input[type="checkbox"]:checked~label~.navigation-mobile-content {
     margin: 30px 0 50px;
 }
 
-/* PURPOSES */
-.purposes {
+/* ABOUT */
+
+.about {
     padding: 100px 0;
 }
 
-.purposes img {
+.about img {
     width: 80%;
     justify-self: flex-end;
 }
 
-.purposes a {
+.about a {
     margin: 60px 0 0;
 }
 
@@ -291,7 +305,7 @@ footer .flex {
         justify-content: space-between;
     }
 
-    .purposes img {
+    .about img {
         width: 100%;
     }
 
@@ -318,7 +332,7 @@ footer .flex {
     .grid, 
     .clients .grid, 
     .offer .grid, 
-    .purposes .grid {
+    .about .grid {
         grid-template-columns: 1fr;
     }
 
@@ -340,7 +354,7 @@ footer .flex {
         width: 70%;
     }
 
-    .purposes,
+    .about,
     .join,
     .offer {
         padding: 40px 0;
@@ -351,7 +365,7 @@ footer .flex {
         margin: 0 0 30px;
     }
 
-    .purposes img, 
+    .about img, 
     .offer img {
         justify-self: center;
         width: 75%;
