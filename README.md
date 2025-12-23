@@ -19,3 +19,7 @@ Some projects uses [node](https://nodejs.org/en/) and [npm](https://www.npmjs.co
 ## 🔗 See also
 Are you interested in? See my other projects and visit my website [Krzysztof Graca](https://krzysztofgraca.pl/) ↗️
 &nbsp;
+
+## 📝 Feel free to contact me
+Write sth nice ;) Find me on [Linkedin](https://www.linkedin.com/in/krzysztof-graca-47698997/) ↗️ or [Facebook](https://www.facebook.com/christoffg74) ↗️
+&nbsp;
