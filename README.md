@@ -23,3 +23,6 @@ Are you interested in? See my other projects and visit my website [Krzysztof Gra
 ## 📝 Feel free to contact me
 Write sth nice ;) Find me on [Linkedin](https://www.linkedin.com/in/krzysztof-graca-47698997/) ↗️ or [Facebook](https://www.facebook.com/christoffg74) ↗️
 &nbsp;
+
+## 👏 Thanks / Special thanks / Credits
+Thanks to my wife – for her time, advice, encouragement and support in creating this project.
