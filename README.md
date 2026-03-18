@@ -1,7 +1,8 @@
 [<img width="1901" height="915" alt="Zrzut ekranu 2025-12-12 142011" src="https://github.com/user-attachments/assets/8cbd53f4-a761-4b53-a0f0-580188831bcd" />](https://imediasystem.github.io/SystemWind/)
 
 ## 🔥 Project Name - SYSTEMWIND
-See the live version of [SYSTEMWIND](https://imediasystem.github.io/SystemWind/) ↗️
+
+[![View Demo](https://img.shields.io/badge/LIVE_DEMO-Visit_Website-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://imediasystem.github.io/SystemWind/)
 
 A conversion-driven website design for an ERP/SAP industry leader. Modern, responsive design combined with functionality. Want your website to achieve these results? Order a design from me today!
 
