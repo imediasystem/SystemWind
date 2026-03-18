@@ -27,9 +27,11 @@ Some projects uses [node](https://nodejs.org/en/) and [npm](https://www.npmjs.co
 Are you interested in? See my other projects and visit my website [iMedia SysteM](https://imediasystem.pl/) ↗️
 &nbsp;
 
-## 📝 Feel free to contact me
-Write sth nice ;) Find me on [Linkedin](https://www.linkedin.com/company/imedia-system/about/?viewAsMember=true) ↗️ or [Facebook](https://www.facebook.com/profile.php?id=61577832340228) ↗️
-&nbsp;
+## 📩 Contact / Collaboration
+Looking for a professional website for your creative business? Let’s talk about your project!
+
+[![Facebook](https://img.shields.io/badge/Facebook-D14836?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61577832340228)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/imedia-system/about/?viewAsMember=true)
 
 ## 👏 Thanks / Special thanks / Credits
 Thanks to my wife – for her time, advice, encouragement and support in creating this project.
