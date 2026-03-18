@@ -6,6 +6,12 @@
 
 A conversion-driven website design for an ERP/SAP industry leader. Modern, responsive design combined with functionality. Want your website to achieve these results? Order a design from me today!
 
+## 📚 Key Features
+* **Fully Responsive Design** – Looks great on mobile, tablet, and desktop.
+* **Video-Centric Layout** – Optimized for high-quality video backgrounds and portfolios.
+* **Performance Optimized** – Fast loading times for a seamless user experience.
+&nbsp;
+
 ## 📚 Technologies / Frameworks / Platforms / Libraries
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
